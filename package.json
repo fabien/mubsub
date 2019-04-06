@@ -1,5 +1,5 @@
 {
-  "name": "mubsub",
+  "name": "@atelierfabien/mubsub",
   "version": "1.2.0",
   "description": "Pub/sub for Node.js and MongoDB",
   "homepage": "http://github.com/scttnlsn/mubsub",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/scttnlsn/mubsub.git"
+    "url": "git://github.com/fabien/mubsub.git"
   },
   "dependencies": {
     "mongodb": "^2.2.12"
